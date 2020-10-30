@@ -1,0 +1,9 @@
+var,desc
+state,State code
+zcta5,ZIP census tabulation area (ZCTA) code
+cbsa10,Core-based statistical area (CBSA) code (2010)
+stab,State abbreviation
+cbsaname10,CBSA name (2010)
+zipname,ZCTA name
+pop10,Total population (2010)
+afact,zcta5 to cbsa10 allocation factor
