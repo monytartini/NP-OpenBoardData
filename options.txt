@@ -1,0 +1,8 @@
+## Start.R
+
+#sets default final year for xml index files
+index_final <- 2020
+
+
+## Fetch.R
+
